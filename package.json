@@ -1,5 +1,5 @@
 {
-  "name": "mojs-timeline-editor",
+  "name": "@mojs/timeline-editor",
   "version": "0.19.2",
   "description": "mojs GUI for editing timeline/html elements",
   "keywords": [
@@ -75,9 +75,9 @@
     "husky": "^0.11.9",
     "json-loader": "^0.5.4",
     "md5": "^2.2.1",
-    "mo-js": "^0.265.7",
-    "mojs-curve-editor": "",
-    "mojs-player": "^0.43.15",
+    "@mojs/core": ">0.265.7",
+    "@mojs/curve-editor": ">0.0.0",
+    "@mojs/player": ">0.43.15",
     "postcss-automath": "^1.0.0",
     "postcss-cssnext": "^2.7.0",
     "postcss-loader": "^0.9.1",
